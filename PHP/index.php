@@ -8,5 +8,6 @@
 <body>
     <h1>Projeto On Fire - PHP</h1><br>
     <a href="dia0.php">Dia 0</a><br>
+    <a href="dia1.php">Dia 1</a><br>
 </body>
 </html>
