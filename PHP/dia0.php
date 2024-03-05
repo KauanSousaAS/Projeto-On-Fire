@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Dia 0</title>
+    <title>Dia 0 - PHP</title>
 </head>
 <body>
     <h1>Calculadora xexelenta</h1><br>
